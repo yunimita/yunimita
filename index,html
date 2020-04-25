@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="responsive.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="header-left"><span class="fa fa-bars menu-icon"></span>
+          <img class="logo" src="https://digitalent.kominfo.go.id/assets/@images/logo.png" alt="Logo DTS">
+          <a> DTS-PROGATE-J1 <a/>
+        </div>
+        <!-- Tambahkan ikon menu disini -->
+        <div class="header-left"><span class="fa fa-bars menu-icon"></span></div>
+        <div class="header-right">
+          <a href="#">Home</a>
+          <a href="#">About Us</a>
+          <a href="#">Portfolio</a>
+          <a href="#">Our Team</a>
+        </div>
+      </div>
+    </header>
+     <div class="top-wrapper">
+      <div class="container">
+        <h1>WELCOME.</h1>
+        <h1>Thank you so much for coming to our Web site.</h1>
+        <p>Here we will introduce who we are</p>
+        <p>I hope you are happy for visiting our website</p>
+        <div class="btn-wrapper">
+          <a href="#" class="btn signup">LET'S SEE</a>
+        </div>
+      </div>
+    </div>
+    
